@@ -1,0 +1,1 @@
+export const baseUrl = "https://financeapp-777a0-default-rtdb.firebaseio.com/";
